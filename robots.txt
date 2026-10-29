@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://music.toffler.dev/sitemap.xml
